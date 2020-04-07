@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957542317793",
+    "firebase_url": "https://productmvp-d1201.firebaseio.com",
+    "project_id": "productmvp-d1201",
+    "storage_bucket": "productmvp-d1201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957542317793:android:c254237c390baad432c1a0",
+        "android_client_info": {
+          "package_name": "com.textmvpv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957542317793-n581suj930moo0g4v55blu48gobsgi3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5D2AAmUvfk3yI8WBks7LU0K6wWr1-yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957542317793-n581suj930moo0g4v55blu48gobsgi3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
